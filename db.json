@@ -1,0 +1,24 @@
+{
+  "products":[
+{"id":1,"name":"Fonsie","addr":"Suite 74","email":"flongfellow0@ustream.tv","gender":"Male","color":"Mauv"},
+{"id":2,"name":"Gwenny","addr":"PO Box 1174","email":"gcorsar1@wunderground.com","gender":"Female","color":"Red"},
+{"id":3,"name":"Way","addr":"1st Floor","email":"wfincher2@addtoany.com","gender":"Male","color":"Teal"},
+{"id":4,"name":"Ali","addr":"Room 1600","email":"adecristofalo3@devhub.com","gender":"Female","color":"Puce"},
+{"id":5,"name":"Wood","addr":"Suite 99","email":"wharpham4@independent.co.uk","gender":"Polygender","color":"Goldenrod"},
+{"id":6,"name":"Hilary","addr":"Suite 80","email":"hbiffin5@hubpages.com","gender":"Female","color":"Maroon"},
+{"id":7,"name":"Bryanty","addr":"PO Box 30606","email":"bturneaux6@liveinternet.ru","gender":"Male","color":"Purple"},
+{"id":8,"name":"Anne","addr":"Apt 1372","email":"alowdwell7@t-online.de","gender":"Polygender","color":"Puce"},
+{"id":9,"name":"Leonidas","addr":"6th Floor","email":"ldormon8@slideshare.net","gender":"Male","color":"Mauv"},
+{"id":10,"name":"Yankee","addr":"Apt 1963","email":"ydomke9@telegraph.co.uk","gender":"Male","color":"Yellow"},
+{"id":11,"name":"Zachariah","addr":"PO Box 71654","email":"zredfearna@independent.co.uk","gender":"Male","color":"Red"},
+{"id":12,"name":"Allin","addr":"1st Floor","email":"acarletb@fda.gov","gender":"Male","color":"Khaki"},
+{"id":13,"name":"Crystal","addr":"20th Floor","email":"cglendinningc@wikimedia.org","gender":"Female","color":"Khaki"},
+{"id":14,"name":"Lennie","addr":"PO Box 15374","email":"lolyunind@bigcartel.com","gender":"Genderqueer","color":"Goldenrod"},
+{"id":15,"name":"Elane","addr":"Suite 39","email":"elymere@nifty.com","gender":"Female","color":"Pink"},
+{"id":16,"name":"Glenden","addr":"16th Floor","email":"gmeffinf@google.com.hk","gender":"Male","color":"Khaki"},
+{"id":17,"name":"Dore","addr":"PO Box 76065","email":"dphetteg@clickbank.net","gender":"Male","color":"Fuscia"},
+{"id":18,"name":"Idalia","addr":"PO Box 89799","email":"iaskieh@oakley.com","gender":"Female","color":"Blue"},
+{"id":19,"name":"Cosmo","addr":"Apt 954","email":"cfordycei@oracle.com","gender":"Male","color":"Yellow"},
+{"id":20,"name":"Kiley","addr":"Suite 52","email":"kmaulinj@google.co.jp","gender":"Female","color":"Indigo"}
+  ]
+}
